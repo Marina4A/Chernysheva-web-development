@@ -1,0 +1,23 @@
+body {
+    min-width: 320px;
+    font-size: 14px;
+    color: #626262;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+a{
+    color: #b4ad9e;
+}
+a:hover {
+    color: #898377;
+}
